@@ -1,0 +1,34 @@
+<html>
+<head>
+<title> Prisacaru Ruxanda_12D </title>
+</head>
+<body>
+<body bgcolor=#E9967A>
+<font face="Times New Roman" color=#2F4F4F>
+<body leftmargin="26%" topmargin="4%">
+<h1><b><center> Cuprins </center></b> <p><center> "Doamna cu c&#259&#355elul" de A.P. Cehov </center></p> </h1>
+<ol>
+<li><h2><i> Cronologie______________________________________ 5</h2>
+<li><h2><i> Capitolul I______________________________________ 15</h2>
+<ul type=”square”><h3>
+<li> Salonul nr.6______________________________________ 15
+<li> Zv&#259p&#259iata______________________________________ 100
+<li> C&#259lug&#259rul negru______________________________________ 138
+<li> Casa cu mezanin______________________________________ 185
+</ul>
+<li><h2><i> Capitolul II_____________________________________ 213</h2>
+<ul type=”square”><h3>
+<li> Mujicii______________________________________ 213
+<li> Acas&#259______________________________________ 260
+<li> Agri&#351ul______________________________________ 278
+<li> Omul &#238n carapace______________________________________ 294
+</ul>
+<li><h2><i> Capitolul III____________________________________ 315</h2>
+<ul type=”square”><h3>
+<li> Doamna cu c&#259&#355elul______________________________________ 315
+<li> Arhiereul______________________________________ 340
+<li> Logodnica______________________________________ 365
+</ul>
+<li><h2><i> Referin&#355e critice_________________________________ 395</h2>
+</body>
+</html>
